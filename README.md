@@ -1,18 +1,18 @@
-##How to exit vim?
+## How to exit vim?
 
 - :q = quit
 - :wq = save and quit
 - :q! = dont save and quit
 - :w = just save
 
-##To move
+## To move
 
 - j goes down
 - k goes up
 - h goes left
 - l goes right
 
-##Write in the file
+## Write in the file
 
 - i to insert in the file
 - o to insert in the next line of the file
@@ -35,7 +35,12 @@
 - :10(any line) to go to any line
 - 0 start of the line
 - $ end of the line
+- W to jump to the next space
+- B to jump to the previous space
+- t goto one to the left
+- f takes to the alphabet
+- % takes to the matching parenthesis
+- cw/cb to remove the word and insert
 
-
-##Timming
-- 16:40
+## Timming
+- 21:35
